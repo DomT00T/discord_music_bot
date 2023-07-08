@@ -1,14 +1,5 @@
 <h1 align="center">"DOMTOOT" an Advanced Discord Music Bot for YOU</h1>
-
-<div align="center">
-    <a href="https://github.com/iTzArshia/iTz-DJ/stargazers"> <img src="https://img.shields.io/github/stars/iTzArshia/iTz-DJ.svg" alt="GitHub stars"/> </a>
-    <a href="https://github.com/iTzArshia/iTz-DJ/network"> <img src="https://img.shields.io/github/forks/iTzArshia/iTz-DJ.svg" alt="GitHub forks"/> </a>
-    <a href="https://discord.gg/nKrBshQvcK"> <img src="https://badgen.net/discord/members/nKrBshQvcK" alt="iTz Development Discord"/> </a>
-    <a href="https://discord.gg/8hr9CRqmfc"> <img src="https://badgen.net/discord/members/8hr9CRqmfc" alt="iTz Club Discord"/> </a>
-</div>
-
-DOMTOOT is the original Discord music bot written for **[JavaScript](https://www.javascript.com/)**, using the **[Discord.js V14](discord.js.org/)** library. It plays requested songs from everywhere you can imagine (YouTube, Spotify, SoundCloud, Deezer, Discord Links and 900+ more websites) also it has many awsome features and commands that you can see in **[Screenshots](https://github.com/iTzArshia/iTz-DJ#-screenshots)**!
-## 🚧 Requirements
+ 
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**  
    1.1. Enable "Message Content Intent" in Discord Developer Portal
 2. **[Node.js 16.9.0](https://nodejs.org/en/download/)** or higher
